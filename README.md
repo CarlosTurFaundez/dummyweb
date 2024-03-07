@@ -1,2 +1,3 @@
-Se trata de una simple aplicación cuya finalidad es mostrar a los alumnos de derecho las particulares características de los contratos online automatizados. 
+Se trata de una simple aplicación cuya finalidad es mostrar a los alumnos de Derecho las particulares características de los contratos online automatizados. 
 Los alumnos pueden observar a través del código y sus funcionalidades como el desarrollador conduce al usuario según sus intereses.
+La interfaz de la aplicación ha sido, deliberadamente, diseñada para que, el estudiante, pueda hacerse eco de las argucias que, con excesiva frecuencia, ocultan la verdadera oferta contractual. El objetivo final es que el estudiante pueda resolver, por sí mismo, las cuestiones jurídicas que se plantean a propósito de la singularidades formales de los contratos online. 
